@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.2.0+cu121
+torchvision==0.17.0+cu121
+torchaudio==2.2.0+cu121
+numpy==1.26.4
+datasets==3.2.0
+transformers==4.48.0
+langchain==0.3.18
+langchain-community==0.3.17
+langchain-huggingface==0.1.2
+pypdf==5.2.0
+chromadb==0.4.14
+peft==0.14.0
+matplotlib
+bitsandbytes==0.45.2
+customtkinter==5.2.2
